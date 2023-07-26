@@ -1,4 +1,4 @@
-package guru.springframework.petclinicima;
+package petclinicima;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
